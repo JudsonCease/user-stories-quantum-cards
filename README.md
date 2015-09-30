@@ -30,7 +30,7 @@ Saving/storing quantum cards, potentially as WIPs.
   *	Similar to the process for how people save trixelations as WIPs
 *	Problems
   *	Doesn’t seem to use ajax to save
-   *	Have to do more digging to determine this.  Looks like it was accomplished using local functions in trixel-create.
+    *	Have to do more digging to determine this.  Looks like it was accomplished using local functions in trixel-create.
 
  
 Flow for someone already in the Quantumverse who wants to make a card?
