@@ -1,8 +1,8 @@
 # user-stories-quantum-cards
 
 As a Trixel user, I want to be able to select a Trixelation to turn it into a Quantum Card.
-●	Mostly Covered
-●	No flow yet for native entry into creation as opposed to entry through a trixelation’s feed menu.
+*	Mostly Covered
+*	No flow yet for native entry into creation as opposed to entry through a trixelation’s feed menu.
  
 Putting the stats on the card as opposed to a form. Text boxes w/defaults.
 ●	Involves
