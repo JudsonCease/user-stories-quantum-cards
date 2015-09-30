@@ -5,9 +5,9 @@ As a Trixel user, I want to be able to select a Trixelation to turn it into a Qu
 *	No flow yet for native entry into creation as opposed to entry through a trixelation’s feed menu.
  
 Putting the stats on the card as opposed to a form. Text boxes w/defaults.
-●	Involves
-  ○	Text boxes on top of the card should be transparent as to allow just the text to show, not the box itself.
-  ○	This is a preview mode.
+*	Involves
+  *	Text boxes on top of the card should be transparent as to allow just the text to show, not the box itself.
+  *	This is a preview mode.
  
 Submit card for purpose of printing
 ●	What’s involved
